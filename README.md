@@ -48,3 +48,8 @@ This project is licensed under the MIT License.
 The System detects human presence in disaster scenarios:
 ![Victim Detection Output](output.png)
 
+## ⚠️ Note
+Dataset and model files are not included due to size limitations.
+
+## 👩‍💻 Author
+Mandala Nikitha
