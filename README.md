@@ -45,5 +45,6 @@ Nikitha Mandala
 This project is licensed under the MIT License.
 
 ## 📸 Output
+The System detects human presence in disaster scenarios:
 ![Victim Detection Output](output.png)
 
