@@ -44,4 +44,6 @@ Nikitha Mandala
 ## License
 This project is licensed under the MIT License.
 
+## 📸 Output
+![Victim Detection Output](output.png)
 
